@@ -1,3 +1,14 @@
-# 30 Days of Python
+<h1 align="center">📅 30 Days of Python</h1>
 
-A structured Python learning series with daily Jupyter notebooks designed to build a strong foundation in Python programming.
+<p align="center">
+  <b>A structured Python learning series with daily Jupyter notebooks.</b><br/>
+  <i>Designed to build a strong foundation in Python programming, step by step.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-Active-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/language-Python-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/format-Jupyter%20Notebooks-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/duration-30%20Days-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/level-Beginner→Intermediate-green?style=flat-square"/>
+</p>
