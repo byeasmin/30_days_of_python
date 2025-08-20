@@ -12,3 +12,11 @@
   <img src="https://img.shields.io/badge/duration-30%20Days-lightgrey?style=flat-square"/>
   <img src="https://img.shields.io/badge/level-Beginner→Intermediate-green?style=flat-square"/>
 </p>
+
+---
+
+## 30 Days of Python Projects ✨
+
+SR No | Project / Exercise | File / Folder | Author
+--- | --- | --- | ---
+1 | Variables & Basic I/O | [Variables & Basic I/O.ipynb](https://github.com/byeasmin/30_days_of_python/blob/main/Day_1.ipynb) | Benin
