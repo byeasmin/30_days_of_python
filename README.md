@@ -19,4 +19,4 @@
 
 SR No | Project / Exercise | File / Folder | Author
 --- | --- | --- | ---
-1 | Variables & Basic I/O | [Variables & Basic I/O.ipynb](Day_1.ipynb) | Benin
+1 | Variables & Basic I/O | [Variables & Basic I/O.ipynb](https://github.com/byeasmin/30_days_of_python/blob/main/Day_1.ipynb) | Benin
