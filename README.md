@@ -59,3 +59,10 @@ SR No | Project / Exercise | File / Folder | Author
 29.1 | File Handling | [File Handling.ipynb](https://github.com/byeasmin/30_days_of_python/blob/main/Day_29.1.ipynb) | Benin
 29.2 | PDF Reader | [PDF Reader.ipynb](https://github.com/byeasmin/30_days_of_python/blob/main/Day_29.2.ipynb) | Benin
 
+---
+
+All the Resources I used during practice are available in my repo. 
+👉 [Repository Link](https://github.com/byeasmin/30_days_of_python)
+
+
+
