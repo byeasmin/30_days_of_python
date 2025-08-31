@@ -58,6 +58,8 @@ SR No | Project / Exercise | File / Folder | Author
 28 | Make Own YouTube Downloader | [Make Own YouTube Downloader.ipynb](https://github.com/byeasmin/30_days_of_python/blob/main/Day_28.ipynb) | Benin
 29.1 | File Handling | [File Handling.ipynb](https://github.com/byeasmin/30_days_of_python/blob/main/Day_29.1.ipynb) | Benin
 29.2 | PDF Reader | [PDF Reader.ipynb](https://github.com/byeasmin/30_days_of_python/blob/main/Day_29.2.ipynb) | Benin
+30 | Generator | [Generator.ipynb](https://github.com/byeasmin/30_days_of_python/blob/main/Day_30.ipynb) | Benin
+
 
 ---
 
