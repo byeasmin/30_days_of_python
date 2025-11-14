@@ -63,7 +63,7 @@ SR No | Project / Exercise | File / Folder | Author
 
 ---
 
-All the Resources I used during practice are available in my repo. 
+All the Resources I used during practice are available in my repo 😊. 
 👉 [Repository Link](https://github.com/byeasmin/30_days_of_python)
 
 
